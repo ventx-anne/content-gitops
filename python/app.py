@@ -1,5 +1,4 @@
 from flask import Flask
-from jinja2 import Markup
 
 app = Flask(__name__)
 
